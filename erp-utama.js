@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/08/top-tips-for-sap-s4hana-erp.html"}
-if(x=="2"){xxx="/2018/08/tips-to-get-more-value-out-of-your.html"}
-if(x=="3"){xxx="/2018/08/putting-e-enterprise-back-into-erp.html"}
-if(x=="4"){xxx="/2018/08/five-erp-software-trends-to-watch-in.html"}
-if(x=="5"){xxx="/2018/08/five-common-gaps-to-watch-for-in-your.html"}a_to_ve[i].href="http://www.erp-software.me"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2018/09/5-most-popular-erp-software.html"}
+if(x=="2"){xxx="/2018/09/top-10-erp-software-vendors.html"}
+if(x=="3"){xxx="/2018/09/top-10-erp-software-for-your-company.html"}
+if(x=="4"){xxx="/2018/09/best-erp-systems.html"}
+if(x=="5"){xxx="/2018/09/enterprise-resource-planning-software.html"}a_to_ve[i].href="http://www.top-erp-systems.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
